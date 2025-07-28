@@ -31,25 +31,11 @@ The source code is made publicly visible on GitHub to promote transparency, allo
 
 ---
 
-## 🏗️ Technology Stack
-
-TuSight is built on a modern, hybrid microservices architecture to combine performance and cutting-edge AI.
-
-*   **Backend API:** C# ASP.NET Core
-*   **AI Engine:** Python (FastAPI, PyTorch, MONAI)
-*   **Frontend:** React (with OHIF Viewer)
-*   **Database:** PostgreSQL
-*   **Deployment:** Docker & Docker Compose
-
----
-
 ## 📈 Project Status
 
 **Current Stage:** Milestone 0.1 - Single Model MVP
 
 We are actively developing the core backend services and infrastructure. The foundational database and API projects are complete. Our current focus is on implementing the authentication and file management systems.
-
-For a detailed breakdown of our progress and future plans, please see the [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md).
 
 ---
 

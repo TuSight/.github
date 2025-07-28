@@ -5,7 +5,6 @@
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
 [![Status](https://img.shields.io/badge/Status-In%20Development-blue.svg)](https://github.com/Raoof-Altaher/TuSight/pulse)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome%20(CLA%20Required)-brightgreen.svg)](CONTRIBUTING.md)
-[![Built with](https://img.shields.io/badge/Built%20with-C%23%20%7C%20Python%20%7C%20Docker-lightgrey.svg)](#-technology-stack)
 
 > **Ensemble Intelligence for Clinical Decision Support**
 

@@ -8,7 +8,7 @@
 
 > **Ensemble Intelligence for Clinical Decision Support**
 
-TuSight is an AI-augmented medical imaging platform designed to assist doctors in underserved communities with MRI tumor detection and segmentation.
+> TuSight is an AI-augmented medical imaging platform powered with **Ensemble Intelligence for Clinical Decision Support** designed to assist oncologists and radiologists with MRI cancer detection and segmentation.
 
 ---
 
